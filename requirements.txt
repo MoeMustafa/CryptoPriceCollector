@@ -1,0 +1,4 @@
+coinbase
+requests
+json
+#bitfinex
